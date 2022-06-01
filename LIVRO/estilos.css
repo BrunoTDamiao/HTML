@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+}
+
+img {
+    width: 190px;
+}
+
+div {
+    text-align: center;
+    font-family: Tahoma;
+    margin: 20px;
+    border-top: 1px solid gray;
+    padding: 50px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    line-height: 28px;
+    text-align: center;
+    width: 930px;
+    margin: 15px auto 30px auto;
+}
+
+a {
+    font-size: 14px;
+    font-weight: bold;
+    background-color: rgb(56, 185, 56);
+    color: white;
+    border-radius: 25px;
+    text-decoration: none;
+    padding: 10px 30px;
+
+}
+
+span {
+    font-weight: bold;
+}

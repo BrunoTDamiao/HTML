@@ -1,0 +1,22 @@
+body {
+    font-family: 'Work Sans', Helvetica, sans-serif;
+    /* 
+    medidas absolutas
+    cm(centimetros), mm(milimetro), in(polegadas), px(pixel), pt(ponto), pc(paica)
+
+    medidas relativas
+    em, ex, rem, vw, vh, %
+    16px geralmente = 1em
+    */
+    font-size: 1.1em;
+
+    /* lighter normal bold bolder */
+
+}
+
+h1 {
+    font-family: 'Work Sans', sans-serif;
+    /* shorthand font
+    
+    - font-style -> font-weight -> font-size -> font-famyly*/
+}

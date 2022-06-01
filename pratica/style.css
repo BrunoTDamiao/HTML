@@ -1,0 +1,9 @@
+body {
+    background-image: url(andree-wallin-1117-2.jpg);
+    background-color: transparent;
+    backdrop-filter: blur(10px);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    min-height: 100vh;
+}

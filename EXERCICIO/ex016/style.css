@@ -1,0 +1,13 @@
+body {
+    background-image: radial-gradient(circle, red 10%, yellow 25%, rgb(102, 96, 96) 30%);
+    font-family: Arial;
+}
+
+h1 {
+    background-color: rgb(206, 152, 4);
+    text-decoration: underline;
+    color: brown;
+}
+h2 {
+    color: brown;
+}
